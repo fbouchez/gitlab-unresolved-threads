@@ -1,3 +1,9 @@
+# Local use of the extensions
+- Visit local page chrome://extensions/
+- Activate "Developer mode" in the upper right corner of page
+- Click button 'Load unpacked' and choose current directory
+
+
 # gitlab-unresolved-threads
 Chrome extension to show unresolved threads on gitlab merge request list.
 
